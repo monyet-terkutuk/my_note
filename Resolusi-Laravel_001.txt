@@ -1,3 +1,4 @@
 RESOLUSI BELAJAR LARAVEL 2023
 - Konsisten belajar laravel min 1 jam setiap hari
 - Belajar Front End dari web Code Politan
+- Menguasai Fullstack dalam satu tahun
